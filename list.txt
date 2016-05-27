@@ -1,0 +1,2 @@
+/path/to/folder/for/backup/
+/another/path/to/folder/for/backup/
